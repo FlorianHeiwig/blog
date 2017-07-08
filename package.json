@@ -4,6 +4,8 @@
   "private": true,
   "hexo": {
     "version": "3.3.7"
+  },"scripts": {
+    "start": "hexo server"
   },
   "dependencies": {
     "hexo": "^3.2.0",
